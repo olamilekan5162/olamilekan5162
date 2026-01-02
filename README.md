@@ -39,7 +39,7 @@ I'm an aspiring Full-Stack Developer with a current focus on Frontend Developmen
 
 ## 📫 Let's Connect!
 
-- [Linkedln](https://www.linkedin.com/in/opeyemi-olalekan-10864523a)
+- [Linkedln](https://www.linkedin.com/in/otemitope)
 
 - [Email](mailto:opeyemiolalekan481@gmail.com)
 
