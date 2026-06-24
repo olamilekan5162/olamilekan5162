@@ -1,7 +1,7 @@
 # Hey, I'm Olalekan Opeyemi 👋
 
 I build things for the web, mobile, and the decentralized world.  
-Frontend engineer specializing in **React**, **Next.js** **React Native**, and **Web3 dApp development** — crafting interfaces that connect users to smart contracts across multiple blockchains.
+Frontend engineer specializing in **React**, **Next.js**, **React Native**, and **Web3 dApp development** — crafting interfaces that connect users to smart contracts across multiple blockchains.
 
 ---
 
@@ -21,7 +21,8 @@ Responsive, accessible UIs with React and Tailwind CSS.
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React, Next.js React Native
+- React, Next.js
+- React Native
 - JavaScript / TypeScript
 - Tailwind CSS, HTML, CSS
 
@@ -33,6 +34,7 @@ Responsive, accessible UIs with React and Tailwind CSS.
 **Tools**
 - Git & GitHub
 - VS Code, Figma
+- Vite
 - REST APIs
 
 ---
