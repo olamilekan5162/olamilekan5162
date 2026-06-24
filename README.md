@@ -21,7 +21,7 @@ Responsive, accessible UIs with React and Tailwind CSS.
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React, Next.js
+- React / Next.js
 - React Native
 - JavaScript / TypeScript
 - Tailwind CSS, HTML, CSS
