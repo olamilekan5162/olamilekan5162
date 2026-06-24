@@ -1,51 +1,64 @@
-# 👋 Hi there, I'm Olalekan Opeyemi!
-I'm an aspiring Full-Stack Developer with a current focus on Frontend Development using React. I'm actively learning Django to build powerful and scalable backend systems.
+# Hey, I'm Olalekan Opeyemi 👋
+
+I build things for the web, mobile, and the decentralized world.  
+Frontend engineer specializing in **React**, **Next.js** **React Native**, and **Web3 dApp development** — crafting interfaces that connect users to smart contracts across multiple blockchains.
 
 ---
 
-## 🚀 What I’m working on
-- Building responsive web apps with React + Tailwind CSS
+## 🔭 What I Build
 
-- Learning Django to handle backend logic and REST APIs
+**Web3 dApps**  
+Integrating smart contracts from different ecosystems (EVM, Solana, etc.) into seamless frontend experiences. Wallet connections, on-chain reads/writes, cross-chain interactions — that's my lane.
 
-- Exploring full-stack project ideas to sharpen my skills
+**Mobile Apps**  
+Production-ready cross-platform apps with React Native, focusing on smooth UX and performance.
+
+**Web Interfaces**  
+Responsive, accessible UIs with React and Tailwind CSS.
 
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
 
-- Backend (learning): Django, Python
+**Frontend**
+- React, Next.js React Native
+- JavaScript / TypeScript
+- Tailwind CSS, HTML, CSS
 
-- Tools: Git, GitHub, VS Code, Figma
+**Web3**
+- Ethers.js / Viem / Wagmi
+- Smart contract integration (EVM chains, multi-ecosystem)
+- Wallet connection (MetaMask, WalletConnect, etc.)
 
----
-
-## 📚 Currently Learning
-- Full-Stack development with Django + React
-  
-- Deployment & DevOps basics
-
----
-
-## 📈 My Goals
-- Build and ship real-world full-stack apps
-
-- Contribute to open-source projects
-
-- Land my first role as a full-stack or frontend developer
+**Tools**
+- Git & GitHub
+- VS Code, Figma
+- REST APIs
 
 ---
 
-## 📫 Let's Connect!
-
-- [Linkedln](https://www.linkedin.com/in/otemitope)
-
-- [Email](mailto:opeyemiolalekan481@gmail.com)
+## 🌱 Currently Exploring
+- Advanced cross-chain dApp architecture
+- On-chain data indexing (The Graph / custom indexers)
+- Backend fundamentals with Django + Python
 
 ---
 
-## 📊 GitHub Stats:
+## 🎯 Goals
+- Ship open-source Web3 and mobile projects that people actually use
+- Go deeper into full-stack Web3 development
+- Collaborate with teams building at the intersection of mobile and decentralized tech
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otemitope)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:opeyemiolalekan481@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
 <table width="100%">
 <tr>
    <td>
@@ -59,21 +72,9 @@ I'm an aspiring Full-Stack Developer with a current focus on Frontend Developmen
 
 ---
 
+> *"The web3 era needs builders who understand both the chain and the user."*
 > “It always seems impossible until it's done.” – Nelson Mandela
 
-
-
 <!--
-**olamilekan5162/olamilekan5162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**olamilekan5162/olamilekan5162** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
