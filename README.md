@@ -73,7 +73,6 @@ Responsive, accessible UIs with React and Tailwind CSS.
 ---
 
 > *"The web3 era needs builders who understand both the chain and the user."*
-> “It always seems impossible until it's done.” – Nelson Mandela
 
 <!--
 **olamilekan5162/olamilekan5162** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
